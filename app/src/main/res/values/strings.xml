@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AskYourSelf</string>
+    <string name="app_name">Ask YourSelf</string>
+    <string name="word_themeOneCount">тема</string>
+    <string name="word_themeNCount">тем</string>
+    <string name="word_questionOneCount">вопрос</string>
+    <string name="word_questionNCount">вопросов</string>
 </resources>
